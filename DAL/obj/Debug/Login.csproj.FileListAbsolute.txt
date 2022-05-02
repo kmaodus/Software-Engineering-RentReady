@@ -1,0 +1,35 @@
+C:\Users\Dell XPS13\Documents\r18082\DAL\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\Dell XPS13\Documents\r18082\DAL\bin\Debug\DAL.dll
+C:\Users\Dell XPS13\Documents\r18082\DAL\bin\Debug\DAL.pdb
+C:\Users\Dell XPS13\Documents\r18082\DAL\obj\Debug\Login.csprojAssemblyReference.cache
+C:\Users\Dell XPS13\Documents\r18082\DAL\obj\Debug\DAL.dll
+C:\Users\Dell XPS13\Documents\r18082\DAL\obj\Debug\DAL.pdb
+C:\FOI\6. semestar\Programsko inzenjerstvo\Projekt repozitorij\DAL\bin\Debug\DAL.dll
+C:\FOI\6. semestar\Programsko inzenjerstvo\Projekt repozitorij\DAL\bin\Debug\DAL.pdb
+C:\FOI\6. semestar\Programsko inzenjerstvo\Projekt repozitorij\DAL\obj\Debug\Login.csprojAssemblyReference.cache
+C:\FOI\6. semestar\Programsko inzenjerstvo\Projekt repozitorij\DAL\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\FOI\6. semestar\Programsko inzenjerstvo\Projekt repozitorij\DAL\obj\Debug\DAL.dll
+C:\FOI\6. semestar\Programsko inzenjerstvo\Projekt repozitorij\DAL\obj\Debug\DAL.pdb
+C:\Users\Vedran\Desktop\projekt-repozitorij\Projekt repozitorij\DAL\bin\Debug\DAL.dll
+C:\Users\Vedran\Desktop\projekt-repozitorij\Projekt repozitorij\DAL\bin\Debug\DAL.pdb
+C:\Users\Vedran\Desktop\projekt-repozitorij\Projekt repozitorij\DAL\obj\Debug\Login.csprojResolveAssemblyReference.cache
+C:\Users\Vedran\Desktop\projekt-repozitorij\Projekt repozitorij\DAL\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\Vedran\Desktop\projekt-repozitorij\Projekt repozitorij\DAL\obj\Debug\DAL.dll
+C:\Users\Vedran\Desktop\projekt-repozitorij\Projekt repozitorij\DAL\obj\Debug\DAL.pdb
+C:\Users\Vedran\Desktop\Projekt repozitorij\Projekt repozitorij\DAL\bin\Debug\DAL.dll
+C:\Users\Vedran\Desktop\Projekt repozitorij\Projekt repozitorij\DAL\bin\Debug\DAL.pdb
+C:\Users\Vedran\Desktop\Projekt repozitorij\Projekt repozitorij\DAL\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\Vedran\Desktop\Projekt repozitorij\Projekt repozitorij\DAL\obj\Debug\DAL.dll
+C:\Users\Vedran\Desktop\Projekt repozitorij\Projekt repozitorij\DAL\obj\Debug\DAL.pdb
+C:\FOI\6. semestar\Programsko inzenjerstvo\_Latest projekt\Projekt repozitorij\DAL\bin\Debug\DAL.dll
+C:\FOI\6. semestar\Programsko inzenjerstvo\_Latest projekt\Projekt repozitorij\DAL\bin\Debug\DAL.pdb
+C:\FOI\6. semestar\Programsko inzenjerstvo\_Latest projekt\Projekt repozitorij\DAL\obj\Debug\Login.csprojAssemblyReference.cache
+C:\FOI\6. semestar\Programsko inzenjerstvo\_Latest projekt\Projekt repozitorij\DAL\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\FOI\6. semestar\Programsko inzenjerstvo\_Latest projekt\Projekt repozitorij\DAL\obj\Debug\DAL.dll
+C:\FOI\6. semestar\Programsko inzenjerstvo\_Latest projekt\Projekt repozitorij\DAL\obj\Debug\DAL.pdb
+C:\Users\Patrik\Documents\_Projekt repozitorij TEST\DAL\bin\Debug\DAL.dll
+C:\Users\Patrik\Documents\_Projekt repozitorij TEST\DAL\bin\Debug\DAL.pdb
+C:\Users\Patrik\Documents\_Projekt repozitorij TEST\DAL\obj\Debug\Login.csprojAssemblyReference.cache
+C:\Users\Patrik\Documents\_Projekt repozitorij TEST\DAL\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\Patrik\Documents\_Projekt repozitorij TEST\DAL\obj\Debug\DAL.dll
+C:\Users\Patrik\Documents\_Projekt repozitorij TEST\DAL\obj\Debug\DAL.pdb

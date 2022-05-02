@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="itextsharp">
+      <HintPath>..\..\..\..\..\..\FOI\6. semestar\Programsko inzenjerstvo\Projekt repozitorij\packages\iTextSharp.5.5.13\itextsharp.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

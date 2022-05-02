@@ -1,0 +1,22 @@
+C:\Users\Patrik\source\repos\PaymentSlipLibrary\PaymentSlipLibrary\obj\Debug\netstandard2.0\PaymentSlipLibrary.csprojAssemblyReference.cache
+C:\Users\Patrik\source\repos\PaymentSlipLibrary\PaymentSlipLibrary\obj\Debug\netstandard2.0\PaymentSlipLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Patrik\source\repos\PaymentSlipLibrary\PaymentSlipLibrary\obj\Debug\netstandard2.0\PaymentSlipLibrary.AssemblyInfoInputs.cache
+C:\Users\Patrik\source\repos\PaymentSlipLibrary\PaymentSlipLibrary\obj\Debug\netstandard2.0\PaymentSlipLibrary.AssemblyInfo.cs
+C:\Users\Patrik\source\repos\PaymentSlipLibrary\PaymentSlipLibrary\bin\Debug\netstandard2.0\PaymentSlipLibrary.deps.json
+C:\Users\Patrik\source\repos\PaymentSlipLibrary\PaymentSlipLibrary\bin\Debug\netstandard2.0\PaymentSlipLibrary.dll
+C:\Users\Patrik\source\repos\PaymentSlipLibrary\PaymentSlipLibrary\bin\Debug\netstandard2.0\PaymentSlipLibrary.pdb
+C:\Users\Patrik\source\repos\PaymentSlipLibrary\PaymentSlipLibrary\bin\Debug\netstandard2.0\itextsharp.dll
+C:\Users\Patrik\source\repos\PaymentSlipLibrary\PaymentSlipLibrary\obj\Debug\netstandard2.0\PaymentSlipLibrary.csproj.CopyComplete
+C:\Users\Patrik\source\repos\PaymentSlipLibrary\PaymentSlipLibrary\obj\Debug\netstandard2.0\PaymentSlipLibrary.dll
+C:\Users\Patrik\source\repos\PaymentSlipLibrary\PaymentSlipLibrary\obj\Debug\netstandard2.0\PaymentSlipLibrary.pdb
+C:\Users\Patrik\Documents\_Projekt repozitorij TEST\PaymentSlipLibrary\PaymentSlipLibrary\bin\Debug\netstandard2.0\PaymentSlipLibrary.deps.json
+C:\Users\Patrik\Documents\_Projekt repozitorij TEST\PaymentSlipLibrary\PaymentSlipLibrary\bin\Debug\netstandard2.0\PaymentSlipLibrary.dll
+C:\Users\Patrik\Documents\_Projekt repozitorij TEST\PaymentSlipLibrary\PaymentSlipLibrary\bin\Debug\netstandard2.0\PaymentSlipLibrary.pdb
+C:\Users\Patrik\Documents\_Projekt repozitorij TEST\PaymentSlipLibrary\PaymentSlipLibrary\bin\Debug\netstandard2.0\itextsharp.dll
+C:\Users\Patrik\Documents\_Projekt repozitorij TEST\PaymentSlipLibrary\PaymentSlipLibrary\obj\Debug\netstandard2.0\PaymentSlipLibrary.csprojAssemblyReference.cache
+C:\Users\Patrik\Documents\_Projekt repozitorij TEST\PaymentSlipLibrary\PaymentSlipLibrary\obj\Debug\netstandard2.0\PaymentSlipLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Patrik\Documents\_Projekt repozitorij TEST\PaymentSlipLibrary\PaymentSlipLibrary\obj\Debug\netstandard2.0\PaymentSlipLibrary.AssemblyInfoInputs.cache
+C:\Users\Patrik\Documents\_Projekt repozitorij TEST\PaymentSlipLibrary\PaymentSlipLibrary\obj\Debug\netstandard2.0\PaymentSlipLibrary.AssemblyInfo.cs
+C:\Users\Patrik\Documents\_Projekt repozitorij TEST\PaymentSlipLibrary\PaymentSlipLibrary\obj\Debug\netstandard2.0\PaymentSlipLibrary.csproj.CopyComplete
+C:\Users\Patrik\Documents\_Projekt repozitorij TEST\PaymentSlipLibrary\PaymentSlipLibrary\obj\Debug\netstandard2.0\PaymentSlipLibrary.dll
+C:\Users\Patrik\Documents\_Projekt repozitorij TEST\PaymentSlipLibrary\PaymentSlipLibrary\obj\Debug\netstandard2.0\PaymentSlipLibrary.pdb
